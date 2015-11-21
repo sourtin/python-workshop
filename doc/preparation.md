@@ -23,7 +23,7 @@ It will save time if you can install Python 3 on your laptop before the workshop
 
 ### Windows
 
-* Download the [Windows x86-64 MSI installer](https://www.python.org/ftp/python/3.4.2/python-3.4.2.amd64.msi) for 64 bit Windows or [Windows x86 MSI installer](https://www.python.org/ftp/python/3.4.2/python-3.4.2.amd64.msi) for 32 bit Windows. If in doubt, choose 32 bit.
+* Download the [Windows x86-64 MSI installer](https://www.python.org/ftp/python/3.5.0/python-3.5.0-amd64.exe) for 64 bit Windows or [Windows x86 MSI installer](https://www.python.org/ftp/python/3.5.0/python-3.5.0.exe) for 32 bit Windows. If in doubt, choose 32 bit.
     * The choice between 64 and 32 bit only matters if you want to install libraries in the future, as you will need to install the same version as your Python version.
 * Run it and follow instructions.
 * Choose `add python.exe to path` so that you can run it from the command line with `python`
@@ -43,7 +43,7 @@ You can then close the window.
 
 ### Mac
 
-* For OS X 10.6 and above, Download and run [this](https://www.python.org/ftp/python/3.4.2/python-3.4.2-macosx10.6.pkg).
+* For OS X 10.6 and above, Download and run [this](https://www.python.org/ftp/python/3.5.0/python-3.5.0-macosx10.6.pkg).
 * Open your terminal by pressing `cmd + space` and entering `terminal`. Type `python3`. (Don't include the full stop.)
 
 ### Linux
