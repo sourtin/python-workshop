@@ -6,6 +6,7 @@
     - [Windows](#windows)
     - [Mac](#mac)
     - [Linux](#linux)
+- [Writing Scripts](#writing-scripts)
 - [Installing the package installer (Optional)](#installing-the-package-installer-optional)
     - [Windows](#windows-1)
     - [Mac and Linux](#mac-and-linux)
@@ -48,6 +49,10 @@ You can then close the window.
 ### Linux
 
 * Open a terminal and install Python 3 using your package manager. For example, `sudo apt-get install python3` or `sudo yum install python3`.
+ 
+## Writing Scripts
+
+There are other ways to interact with python other than those listed above which you may find easier or more helpful. If you're struggling with using the terminal/command prompt above and want an easier way to access the python interpreter, or you want to start saving the code you write to run later in the form of a 'script', then try following the instructions [here](../extra/idle.md).
 
 ## Installing the package installer (Optional)
 
