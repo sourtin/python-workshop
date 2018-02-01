@@ -6,6 +6,6 @@
 
 ### Challenges:
 
-* [Simple Exercises](http://www.ling.gu.se/~lager/python_exercises.html)
+* [Simple Exercises](../exercises/simple.md)
 * [Caesar Cipher](../exercises/caesar-cipher.md#readme)
 * [Word Count](../exercises/word-count.md#readme)
